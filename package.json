@@ -1,6 +1,6 @@
 {
   "name": "test-plan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Count assertions and call function at the end",
   "main": "index.js",
   "scripts": {
