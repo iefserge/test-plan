@@ -1,0 +1,19 @@
+{
+  "name": "test-plan",
+  "version": "0.1.0",
+  "description": "Count assertions and call function at the end",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -t 5000 --recursive test --bail --colors --reporter spec --debug -u tdd --log true"
+  },
+  "repository": "iefserge/test-plan",
+  "author": "Serge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iefserge/test-plan/issues"
+  },
+  "homepage": "https://github.com/iefserge/test-plan",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
