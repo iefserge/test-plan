@@ -16,3 +16,7 @@ it('should be able to wait for two events', function(done) {
   }, 10);
 });
 ```
+
+## LICENSE
+
+MIT
